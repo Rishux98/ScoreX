@@ -1,5 +1,8 @@
 # ScoreX 🏏
 
+Guys !!! we all r Team ;
+let's do it !
+
 A modern, real-time cricket score tracking and match management web application built with React and Vite.
 
 ---
